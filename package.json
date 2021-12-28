@@ -1,0 +1,24 @@
+{
+  "name": "payuung-gadjian-test",
+  "version": "1.0.0",
+  "description": "Technical test for Fast8 Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Yuri Iskandia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^7.0.0-alpha.2"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.3.0"
+  }
+}
