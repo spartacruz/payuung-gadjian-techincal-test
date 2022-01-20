@@ -7,8 +7,12 @@ API Documentation (provided by user) : [Technical Test - Postman documenter](htt
 ## Authentication
 
 No authentication required for this API
-
-## API Specification
+<br>
+<br>
+<br>
+<h1 align="center">API Specification</h1>
+<br>
+<br>
 
 ## Fibonnaci counter
 
