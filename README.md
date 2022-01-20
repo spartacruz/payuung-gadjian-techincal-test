@@ -8,6 +8,8 @@ API Documentation (provided by user) : [Technical Test - Postman documenter](htt
 
 No authentication required for this API
 
+## API Specification
+
 ## Fibonnaci counter
 
 Request :
